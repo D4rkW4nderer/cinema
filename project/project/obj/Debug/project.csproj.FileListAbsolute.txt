@@ -1,0 +1,13 @@
+C:\Users\Andy_\OneDrive\Рабочий стол\project\project\bin\Debug\project.exe.config
+C:\Users\Andy_\OneDrive\Рабочий стол\project\project\bin\Debug\project.exe
+C:\Users\Andy_\OneDrive\Рабочий стол\project\project\bin\Debug\project.pdb
+C:\Users\Andy_\OneDrive\Рабочий стол\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Andy_\OneDrive\Рабочий стол\project\project\obj\Debug\project.Form1.resources
+C:\Users\Andy_\OneDrive\Рабочий стол\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Andy_\OneDrive\Рабочий стол\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+C:\Users\Andy_\OneDrive\Рабочий стол\project\project\obj\Debug\project.exe
+C:\Users\Andy_\OneDrive\Рабочий стол\project\project\obj\Debug\project.pdb
+C:\Users\Andy_\OneDrive\Рабочий стол\project\project\bin\Debug\MySql.Data.dll
+C:\Users\Andy_\OneDrive\Рабочий стол\project\project\bin\Debug\Google.Protobuf.dll
+C:\Users\Andy_\OneDrive\Рабочий стол\project\project\bin\Debug\MySql.Data.xml
+C:\Users\Andy_\OneDrive\Рабочий стол\project\project\obj\Debug\project.Form2.resources
